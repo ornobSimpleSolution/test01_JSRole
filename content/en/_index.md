@@ -18,3 +18,6 @@ What you see here is the base reset CSS plus the Zen styles. I fully expect most
 
 To make this theme look like anything you need to add your own custom styling to it. It is a **base** theme after all.
 
+## JSON Formatter
+
+{{< json-formatter >}}
